@@ -18,11 +18,16 @@ Results-driven professional with 13+ years of experience in **banking operations
 ---
 
 ## 🛠️ Skills
+![Excel](https://img.shields.io/badge/Excel-Data%20Management-green)  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20%26%20Tracking-brightgreen)  
+![Operations](https://img.shields.io/badge/Operations-Data%20Handling-blue)  
+![Automation](https://img.shields.io/badge/Automation-Productivity-orange)  
+![Education](https://img.shields.io/badge/Education-LMS%20%26%20Online%20Learning-yellow)  
+![Documentation](https://img.shields.io/badge/Documentation-Reporting-lightgrey)  
 ![AI](https://img.shields.io/badge/AI-Prompt%20Engineering-blue)  
 ![Python](https://img.shields.io/badge/Code-Python-yellow)  
 ![MS Office](https://img.shields.io/badge/Tools-MS%20Office-green)  
 ![Tutoring](https://img.shields.io/badge/Education-Tutoring-orange)
-
 ---
 
 ## 🎓 Education
